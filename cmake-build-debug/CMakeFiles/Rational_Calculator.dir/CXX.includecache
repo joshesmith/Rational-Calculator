@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/e/Users/k.smith/CLionProjects/Rational_Calculator/classes/Fraction.cpp
+Fraction.h
+/cygdrive/e/Users/k.smith/CLionProjects/Rational_Calculator/classes/Fraction.h
+assert.h
+-
+
+/cygdrive/e/Users/k.smith/CLionProjects/Rational_Calculator/classes/Fraction.h
+iostream
+-
+

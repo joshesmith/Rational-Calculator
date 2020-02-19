@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Calculator.dir/main.cpp.o CMakeFiles/Calculator.dir/classes/Fraction.cpp.o CMakeFiles/Calculator.dir/classes/My_expression.cpp.o CMakeFiles/Calculator.dir/classes/Math_element.cpp.o  -o Calculator.exe -Wl,--out-implib,libCalculator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
