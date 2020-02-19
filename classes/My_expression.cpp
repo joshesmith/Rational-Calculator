@@ -231,6 +231,7 @@ bool My_expression::parenthesis_match(){
         }
     }
     assert(stack1.empty() && "incorrect parenthesis matching");
+    return true;
 }
 
 void My_expression::simplify(){

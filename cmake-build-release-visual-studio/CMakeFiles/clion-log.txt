@@ -1,0 +1,4 @@
+"E:\Program Files\JetBrains\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - NMake Makefiles" E:\Users\k.smith\CLionProjects\Rational_Calculator
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/Users/k.smith/CLionProjects/Rational_Calculator/cmake-build-release-visual-studio

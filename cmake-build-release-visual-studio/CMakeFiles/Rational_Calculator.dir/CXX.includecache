@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Users/k.smith/CLionProjects/Rational_Calculator/classes/Fraction.h
+iostream
+-
+
+E:/Users/k.smith/CLionProjects/Rational_Calculator/classes/Math_element.h
+Fraction.h
+E:/Users/k.smith/CLionProjects/Rational_Calculator/classes/Fraction.h
+
+E:/Users/k.smith/CLionProjects/Rational_Calculator/classes/My_expression.cpp
+My_expression.h
+E:/Users/k.smith/CLionProjects/Rational_Calculator/classes/My_expression.h
+ctype.h
+E:/Users/k.smith/CLionProjects/Rational_Calculator/classes/ctype.h
+string
+-
+cassert
+-
+
+E:/Users/k.smith/CLionProjects/Rational_Calculator/classes/My_expression.h
+string
+-
+vector
+-
+Math_element.h
+E:/Users/k.smith/CLionProjects/Rational_Calculator/classes/Math_element.h
+

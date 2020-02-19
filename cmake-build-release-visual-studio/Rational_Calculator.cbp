@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Rational_Calculator"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/Users/k.smith/CLionProjects/Rational_Calculator/cmake-build-release-visual-studio"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f E:\Users\k.smith\CLionProjects\Rational_Calculator\cmake-build-release-visual-studio\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f E:\Users\k.smith\CLionProjects\Rational_Calculator\cmake-build-release-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f E:\Users\k.smith\CLionProjects\Rational_Calculator\cmake-build-release-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f E:\Users\k.smith\CLionProjects\Rational_Calculator\cmake-build-release-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Rational_Calculator">
+				<Option output="E:/Users/k.smith/CLionProjects/Rational_Calculator/cmake-build-release-visual-studio/Rational_Calculator.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Users/k.smith/CLionProjects/Rational_Calculator/cmake-build-release-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="E:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="E:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="E:\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="E:\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="E:\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="E:\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="E:\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f E:\Users\k.smith\CLionProjects\Rational_Calculator\cmake-build-release-visual-studio\Makefile VERBOSE=1 Rational_Calculator"/>
+					<CompileFile command="nmake /NOLOGO /f E:\Users\k.smith\CLionProjects\Rational_Calculator\cmake-build-release-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f E:\Users\k.smith\CLionProjects\Rational_Calculator\cmake-build-release-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f E:\Users\k.smith\CLionProjects\Rational_Calculator\cmake-build-release-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Rational_Calculator/fast">
+				<Option output="E:/Users/k.smith/CLionProjects/Rational_Calculator/cmake-build-release-visual-studio/Rational_Calculator.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Users/k.smith/CLionProjects/Rational_Calculator/cmake-build-release-visual-studio"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="E:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="E:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="E:\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="E:\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="E:\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="E:\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="E:\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f E:\Users\k.smith\CLionProjects\Rational_Calculator\cmake-build-release-visual-studio\Makefile VERBOSE=1 Rational_Calculator/fast"/>
+					<CompileFile command="nmake /NOLOGO /f E:\Users\k.smith\CLionProjects\Rational_Calculator\cmake-build-release-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f E:\Users\k.smith\CLionProjects\Rational_Calculator\cmake-build-release-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f E:\Users\k.smith\CLionProjects\Rational_Calculator\cmake-build-release-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/Users/k.smith/CLionProjects/Rational_Calculator/cmake-build-release-visual-studio"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f E:\Users\k.smith\CLionProjects\Rational_Calculator\cmake-build-release-visual-studio\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f E:\Users\k.smith\CLionProjects\Rational_Calculator\cmake-build-release-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f E:\Users\k.smith\CLionProjects\Rational_Calculator\cmake-build-release-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f E:\Users\k.smith\CLionProjects\Rational_Calculator\cmake-build-release-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/Users/k.smith/CLionProjects/Rational_Calculator/cmake-build-release-visual-studio"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f E:\Users\k.smith\CLionProjects\Rational_Calculator\cmake-build-release-visual-studio\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f E:\Users\k.smith\CLionProjects\Rational_Calculator\cmake-build-release-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f E:\Users\k.smith\CLionProjects\Rational_Calculator\cmake-build-release-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f E:\Users\k.smith\CLionProjects\Rational_Calculator\cmake-build-release-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/Users/k.smith/CLionProjects/Rational_Calculator/classes/Fraction.cpp">
+			<Option target="Rational_Calculator"/>
+		</Unit>
+		<Unit filename="E:/Users/k.smith/CLionProjects/Rational_Calculator/classes/Fraction.h">
+			<Option target="Rational_Calculator"/>
+		</Unit>
+		<Unit filename="E:/Users/k.smith/CLionProjects/Rational_Calculator/classes/Math_element.cpp">
+			<Option target="Rational_Calculator"/>
+		</Unit>
+		<Unit filename="E:/Users/k.smith/CLionProjects/Rational_Calculator/classes/Math_element.h">
+			<Option target="Rational_Calculator"/>
+		</Unit>
+		<Unit filename="E:/Users/k.smith/CLionProjects/Rational_Calculator/classes/My_expression.cpp">
+			<Option target="Rational_Calculator"/>
+		</Unit>
+		<Unit filename="E:/Users/k.smith/CLionProjects/Rational_Calculator/classes/My_expression.h">
+			<Option target="Rational_Calculator"/>
+		</Unit>
+		<Unit filename="E:/Users/k.smith/CLionProjects/Rational_Calculator/main.cpp">
+			<Option target="Rational_Calculator"/>
+		</Unit>
+		<Unit filename="E:/Users/k.smith/CLionProjects/Rational_Calculator/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
